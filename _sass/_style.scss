@@ -1,5 +1,8 @@
-$color-primary: hsl(165°, 53%, 48%);
+$color-primary: #0E38B1;
+$color-primary-light: lighten(#0E38B1, .25);
+// $color-primary: hsl(165°, 53%, 48%);
 $color-link-hover: hsl(163°, 87%, 72%);
+// $color-link-hover: hsl(163°, 87%, 72%);
 $color-text: hsl(0, 0%, 20%);
 $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
@@ -78,14 +81,16 @@ h6 {
 
 a {
   text-decoration: none;
-  box-shadow: inset 0 -7px 0 rgba(147,255,145,.25);
+  box-shadow: inset 0 -7px 0 rgba($color-primary, 0.15);
+  // box-shadow: inset 0 -7px 0 rgba(147,255,145,.25);
   transition: all .1s ease-in;
   border-bottom: 1px solid $color-border;
   color: $color-primary;
   border-radius: 2px;
   &:hover {
     // color: black !important;
-    box-shadow: inset 0 -24px 0 rgba(147,255,145,.25);
+    box-shadow: inset 0 -24px 0 rgba($color-primary, 0.15);
+    // box-shadow: inset 0 -24px 0 rgba(147,255,145,.25);
   }
 }
 

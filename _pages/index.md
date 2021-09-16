@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 <div>
-  <h1>Hi, I'm Mike! 👋</h1>
+  <h1>Hi, I'm Zakk! 👋</h1>
 </div>
 
 Welcome to The Refined Mind, which is the fancy name I gave to this boring website.
