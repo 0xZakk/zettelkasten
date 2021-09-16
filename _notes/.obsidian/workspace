@@ -1,32 +1,29 @@
 {
   "main": {
-    "id": "308aa034d24f2164",
+    "id": "80a3268173b80575",
     "type": "split",
     "children": [
       {
-        "id": "1823259477cf1544",
+        "id": "6dc9ed4e5d2b448a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Writing is thinking.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "aa392b02d30380a9",
+    "id": "d7c467853d85ef6f",
     "type": "split",
     "children": [
       {
-        "id": "2762f71c128146c8",
+        "id": "5a5e82deb739b437",
         "type": "tabs",
         "children": [
           {
-            "id": "5fcf6a674c988b1e",
+            "id": "094d9bef9b305d65",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +31,7 @@
             }
           },
           {
-            "id": "edc90d2ada219f6c",
+            "id": "5c771d69bd17e75c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -47,12 +44,42 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "476e7f79946a751e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3cadeb2c1f5166e",
+        "type": "tabs",
+        "children": [
           {
-            "id": "0a63e02673ee7fd1",
+            "id": "35fae7b9f66b5193",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2600bcda97483edc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
               "state": {}
             }
           }
@@ -60,51 +87,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402
-  },
-  "right": {
-    "id": "57fbaada095c81cb",
-    "type": "split",
-    "children": [
-      {
-        "id": "efdb256217503e4a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "04734f6f7d28c517",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Writing is thinking.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 352,
+    "width": 300,
     "collapsed": true
   },
-  "active": "1823259477cf1544",
+  "active": "6dc9ed4e5d2b448a",
   "lastOpenFiles": [
-    "Writing is thinking.md",
-    "Knowledge teams need a shared digital space.md",
-    "What has my attention now.md",
-    "changelog.md",
+    "literature/3 Ways to Price a SaaS Product.md",
+    "reference/Don't Charge $9 a Month for Your SaaS.md",
+    "_templates/Reference Note (Template).md",
+    "_templates/Literature Note (Template).md",
+    "Don't Charge $9 a Month for Your SaaS.md",
+    "_templates/Project (Template).md",
     "Untitled.md",
-    "what I need in a digital workspace.md",
-    "reduce single-use plastic.md",
-    "digital ecosystem.md",
-    "my digital ecosystem.md",
-    "Whimsical is for visual thinking.md"
+    "3 Ways to Price a SaaS Product.md",
+    "_templates/Permanent Note (Template).md",
+    "domains/Great Business.md"
   ]
 }

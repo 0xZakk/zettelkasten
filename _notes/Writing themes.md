@@ -1,5 +1,6 @@
 ---
 title: Writing themes
+type: literature
 ---
 * Life Journeys & Being Human
 * Attention, Focus, & Effort
