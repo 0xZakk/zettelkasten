@@ -139,70 +139,59 @@ li {
   text-align:center;
 }
 
-@media (prefers-color-scheme: dark) {
-
-  $night-mode-bg: #282a36;
-  $night-mode-fg: #f8f8f2;
-
-  body {
-    background-color: #282a36;
-    color: $night-mode-fg;
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      color: $night-mode-fg;
-    }
-
-    .backlink-box {
-      background: darken($night-mode-bg, 5)
-    }
-
-    time {
-    display: block;
-    color: $night-mode-fg;
-    margin: 0.5em 0 1em;
-    }
-
-    blockquote {
-    background: darken($night-mode-bg, 5);
-    }
-
-    .masthead,
-    .post,
-    hr {
-      border-color: hsla(0, 100%, 100%, 0.15);
-    }
-
-    $link-color: rgb(171, 184, 219);
-    .entry a,
-    a {
-      color: $link-color;
-      box-shadow: inset 0 -7px 0 rgba(178,192,232,.25);
-    }
-
-    a:hover {
-      color: lighten($link-color, 25);
-      box-shadow: inset 0 -24px 0 rgba(178,192,232,.25);
-    }
-
-    .wrapper-footer {
-      background-color: $night-mode-bg;
-    }
-
-    .highlight {
-      background-color: #202020;
-      border: 1px solid #000;
-    }
-
-    nav a,
-    .site-description {
-      color: #abb7db;
-    }
-  }
-
+.article-cards {
 
 }
+
+.article-card {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: 1fr;
+  grid-column-gap: 40px;
+  grid-template-areas: "meta meta content content content content content content";
+  padding: 1rem 0;
+
+  &__meta {
+    grid-area: meta;
+  }
+
+  &__content {
+    grid-area: content;
+  }
+
+  p {
+    margin-top: 0.5rem;
+  }
+}
+
+.article-card--date-01+.article-card--date-01,
+.article-card--date-02+.article-card--date-02,
+.article-card--date-03+.article-card--date-03,
+.article-card--date-04+.article-card--date-04,
+.article-card--date-05+.article-card--date-05,
+.article-card--date-06+.article-card--date-06,
+.article-card--date-07+.article-card--date-07,
+.article-card--date-08+.article-card--date-08,
+.article-card--date-09+.article-card--date-09,
+.article-card--date-10+.article-card--date-10,
+.article-card--date-11+.article-card--date-11,
+.article-card--date-12+.article-card--date-12 {
+  .article-card__meta {
+    display: none;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Articles
+layout: articles
+title: Writing
 permalink: /articles
 ---
 

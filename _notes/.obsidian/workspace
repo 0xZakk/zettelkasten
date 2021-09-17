@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "6dc9ed4e5d2b448a",
+        "id": "c67414d364b67fff",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "articles/Write Like Farnam Street.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 495
   },
   "right": {
     "id": "476e7f79946a751e",
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "articles/Write Like Farnam Street.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "articles/Write Like Farnam Street.md"
+              }
             }
           }
         ]
@@ -90,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6dc9ed4e5d2b448a",
+  "active": "c67414d364b67fff",
   "lastOpenFiles": [
-    "literature/3 Ways to Price a SaaS Product.md",
-    "reference/Don't Charge $9 a Month for Your SaaS.md",
-    "_templates/Reference Note (Template).md",
-    "_templates/Literature Note (Template).md",
-    "Don't Charge $9 a Month for Your SaaS.md",
-    "_templates/Project (Template).md",
-    "Untitled.md",
-    "3 Ways to Price a SaaS Product.md",
-    "_templates/Permanent Note (Template).md",
-    "domains/Great Business.md"
+    "articles/Write Like Farnam Street.md",
+    "articles/Wise Management.md",
+    "articles/What is Gatbsy.js, Really?.md",
+    "articles/Using Pipenv with Django.md",
+    "articles/Understanding the Difference Between Flooring and Truncating in Python.md",
+    "articles/Turning Twitter into an Inspiration Machine.md",
+    "articles/Tips for Reading More with the Rest of 2020.md",
+    "articles/The Three C's of Leadership.md",
+    "articles/The Real Reason Everyone Should Learn to Code.md",
+    "articles/The Knot How to Think About Problem Solving.md"
   ]
 }

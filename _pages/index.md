@@ -13,7 +13,7 @@ I'm a Solidity developer and co-founder of Cabin DAO.
 
 I like cooking, hiking, and reading. I also write about a couple of different topics, including: [technology](/technology), [building the future](/building-the-future), [high-performance knowledge work](/high-performance-knowledge-work), [building a great and sustaining business](/great-business), and [managing teams](/management).
 
-This is my personal website, where you can learn [about me](/about), [my work](/work), and [my writing](/articles). Perhaps the best way to get started is to explore [my articles](/articles), review the site's [changelog](/changelog), or look through some of the things I'm [thinking about](/domains).
+This is my personal website, where you can learn about me, my work, and [my writing](/articles). Perhaps the best way to get started is to explore [my articles](/articles), review the site's [changelog](/changelog), or look through some of the things I'm [thinking about](/domains).
 
 The best way to reach me is on Twitter or on Discord.
 
