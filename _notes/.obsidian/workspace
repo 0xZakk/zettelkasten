@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c67414d364b67fff",
+        "id": "bfebe7a06175d960",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "articles/Write Like Farnam Street.md",
+            "file": "changelog.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 495
+    "width": 301,
+    "collapsed": true
   },
   "right": {
     "id": "476e7f79946a751e",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/Write Like Farnam Street.md",
+                "file": "changelog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/Write Like Farnam Street.md"
+                "file": "changelog.md"
               }
             }
           }
@@ -96,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c67414d364b67fff",
+  "active": "bfebe7a06175d960",
   "lastOpenFiles": [
-    "articles/Write Like Farnam Street.md",
-    "articles/Wise Management.md",
-    "articles/What is Gatbsy.js, Really?.md",
-    "articles/Using Pipenv with Django.md",
-    "articles/Understanding the Difference Between Flooring and Truncating in Python.md",
-    "articles/Turning Twitter into an Inspiration Machine.md",
-    "articles/Tips for Reading More with the Rest of 2020.md",
-    "articles/The Three C's of Leadership.md",
-    "articles/The Real Reason Everyone Should Learn to Code.md",
-    "articles/The Knot How to Think About Problem Solving.md"
+    "changelog.md",
+    "literature/3 Ways to Price a SaaS Product.md",
+    "reference/Dont charge monthly for your saas.md",
+    "reference/Dont Charge 9 a Month for Your SaaS.md",
+    "literature/Advantages of Go over other programming languages.md",
+    "reference/Don't Charge $9 a Month for Your SaaS.md",
+    "Advantages of Go over other programming languages.md",
+    "Go in Action (Preview).md",
+    "_templates/Reference Note (Template).md",
+    "Untitled.md"
   ]
 }

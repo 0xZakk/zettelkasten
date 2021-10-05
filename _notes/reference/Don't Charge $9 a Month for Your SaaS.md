@@ -8,5 +8,3 @@ type: reference
 ## Summary:
 
 This article describes a couple of ways to price a SaaS product. It argues that there are three ways to thinking about pricing: Cost Plus, Competitor-based, and Value-based.
-
-

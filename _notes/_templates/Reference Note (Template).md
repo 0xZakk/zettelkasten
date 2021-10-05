@@ -1,6 +1,6 @@
 ---
 title: {{title}}
-author : 
+author: 
 source: 
 type: reference
 ---

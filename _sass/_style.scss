@@ -128,6 +128,24 @@ li {
   background: $color-box-background;
   padding: 1em;
   border-radius: $border-radius;
+
+  &__link {
+    font-size: 80%;
+    font-weight: 500;
+  }
+
+  &__type {
+    font-size: 80%;
+    font-style: italic;
+    color: $color-primary-light;
+    opacity: 0.5
+  }
+
+  &__excerpt {
+    font-size: 0.9em;
+    font-weight: 300;
+    font-size: 70%;
+  }
 }
 
 .row {
