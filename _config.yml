@@ -10,7 +10,7 @@ plugins:
   - jekyll-feed
   # - jekyll-twitter-plugin
   - jekyll-seo-tag
-  - jekyll-spaceship
+  # - jekyll-spaceship
   - jekyll_picture_tag
   - jekyll-sitemap
 sass:

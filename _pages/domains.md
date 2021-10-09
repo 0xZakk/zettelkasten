@@ -10,6 +10,11 @@ Over the past few years, as I've read books and written articles, I've periodica
 
 I expect these conerns will change over time. The current list is presented below, in no particular order.
 
+<!-- Do a grid here -->
+<div>
+
+</div>
+
 ## [Building the Future](/building-the-future)
 
 ## [Great Business](/great-business)

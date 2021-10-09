@@ -111,17 +111,17 @@ li {
   padding-bottom: 15px;
 }
 
-#notes-entry-container {
-  display: grid;
-  grid-gap: 2em;
-  grid-template-areas:
-    "content"
-    "side";
+.wrapper {
 
-  @media (min-width: 700px) {
-    grid-template-columns: 3fr 1fr;
-    grid-template-areas: "content side";
+  .article {
+    max-width: 40rem;
+    width: 90%;
+    margin: 0 auto;
   }
+}
+
+#notes-entry-container {
+  
 }
 
 .backlink-box {
